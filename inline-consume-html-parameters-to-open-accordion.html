@@ -1,0 +1,19 @@
+<!-- If you want to simulate clicking on a specific accordion toggle, pass in sectionId = [value] into the URL when navigating to this page. This script will locate a DOM element whose id equals that value and run its click() callback. -->
+
+<script>
+
+    const queryString = window.location.search;
+    const sectionId = "sectionId";
+    const searchParams = new URLSearchParams(queryString);
+    if (searchParams.has(sectionId)){
+    let domElement = document.getElementById(searchParams.get(sectionId))
+    if (domElement) {
+    domElement.click();
+    domElement.scrollIntoView();
+    domElement.scrollBy(0,"1rem");
+    }
+    
+    }
+    </script>
+    
+    
