@@ -14,8 +14,38 @@ Here are the steps required to add this content to TerminalFour, given our curre
 
 For the purposes of instruction, I've created a new section on our T4 webpage. Upon creation, the editor will show something like this:
 
+<img src="screenshots/screenshot-0-blank-section.PNG" width=50% height=50% alt="Screenshot of an empty section in the TerminalFour editor"/>
 
+From here, we begin our nested accordion journey.
 
+---
 
 ### Adding Custom Styling 
+Under construction.
+
+---
+
+### Adding the Outer Accordion
+Under construction. 
+
+---
+
+### Adding Content Inside the Outer Accordion
+Under construction.
+
+---
+
+### Adding an Accordion Inside an Accordion
+Under construction.
+
+---
+
+### Adding Code to Support Accordion "Autoclick" Upon Opening the Webpage
+Under construction.
+
+---
+
+### Sending Links that Contain the "Autoclick"
+Under construction.
+
 
